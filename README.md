@@ -3,6 +3,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+My+GitHub" alt="Typing SVG" /></a>
 
+<p align="left"> <a href="https://twitter.com/mohamedgam7l" target="blank"><img src="https://img.shields.io/twitter/follow/mohamedgam7l?logo=twitter&style=for-the-badge" alt="mohamedgam7l" /></a> </p>
+
 <img alight="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
 
@@ -10,8 +12,6 @@
 
 
 - 📫 How to reach me **mohamedco851@gmail.com**
-
-
   <br>
 - 🏫 From Giza, Egypt.<br>
 - 👩🏻‍💻 Student at Faculty of Computers and Artificial Intelligence - Cairo University.<br>
@@ -19,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/mohamedgam7l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamedgam7l" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-gamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-gamal" height="30" width="40" /></a>
 <a href="https://fb.com/mohamed-gamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed-gamal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mohamed-gamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamed-gamal" height="30" width="40" /></a>
