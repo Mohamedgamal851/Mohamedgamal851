@@ -1,4 +1,4 @@
- <img align="center" alt="coding" width="1000" height="400" src="https://www.horizont.com.hr/posao/backend-developer.gif"> 
+ <img align="center" alt="coding" width="1000" height="300" src="https://www.horizont.com.hr/posao/backend-developer.gif"> 
 
 
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
