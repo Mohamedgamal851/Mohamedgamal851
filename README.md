@@ -1,4 +1,5 @@
-<img align="center" alt="coding" width="1000" height="400" src="https://media.licdn.com/dms/image/D4D22AQEsha9LM359Dw/feedshare-shrink_2048_1536/0/1705587621118?e=2147483647&v=beta&t=3O4djJLdJ0tTZJXuNWgM3533dqnDhJJtDu6JN8Fe3Oo">
+ <img align="center" alt="coding" width="1000" height="400" src="https://www.horizont.com.hr/posao/backend-developer.gif"> 
+
 
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">Software Engineer</h3>
