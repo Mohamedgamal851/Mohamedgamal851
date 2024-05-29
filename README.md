@@ -1,3 +1,5 @@
+<img align="center" alt="coding" width="1000" height="400" src="https://media.licdn.com/dms/image/D4D22AQEsha9LM359Dw/feedshare-shrink_2048_1536/0/1705587621118?e=2147483647&v=beta&t=3O4djJLdJ0tTZJXuNWgM3533dqnDhJJtDu6JN8Fe3Oo">
+
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">Software Engineer</h3>
 
@@ -5,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohamedgam7l" target="blank"><img src="https://img.shields.io/twitter/follow/mohamedgam7l?logo=twitter&style=for-the-badge" alt="mohamedgam7l" /></a> </p>
 
-<img alight="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
 
 
